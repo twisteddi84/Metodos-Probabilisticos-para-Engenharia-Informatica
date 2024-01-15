@@ -1,9 +1,0 @@
-TP1 = 14.7
-TP2 = 12 #EXAME TEORICO
-P1 = 18 #2 GUIÕES
-P2 = 9 #EXAME PRÁTICO
-P3 = 13 #NOTA EMPENHO AULA
-
-Nota_final = 0.2*TP1 + 0.1*TP2 + 0.35*P1 + 0.25*P2 + 0.1*P3
-
-print(Nota_final)
